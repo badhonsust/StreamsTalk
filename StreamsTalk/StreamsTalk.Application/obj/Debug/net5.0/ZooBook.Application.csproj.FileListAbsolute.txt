@@ -1,0 +1,15 @@
+C:\Work\ZooBook\ZooBook\ZooBook.Application\bin\Debug\net5.0\ZooBook.Application.deps.json
+C:\Work\ZooBook\ZooBook\ZooBook.Application\bin\Debug\net5.0\ZooBook.Application.dll
+C:\Work\ZooBook\ZooBook\ZooBook.Application\bin\Debug\net5.0\ref\ZooBook.Application.dll
+C:\Work\ZooBook\ZooBook\ZooBook.Application\bin\Debug\net5.0\ZooBook.Application.pdb
+C:\Work\ZooBook\ZooBook\ZooBook.Application\bin\Debug\net5.0\ZooBook.Domain.dll
+C:\Work\ZooBook\ZooBook\ZooBook.Application\bin\Debug\net5.0\ZooBook.Domain.pdb
+C:\Work\ZooBook\ZooBook\ZooBook.Application\obj\Debug\net5.0\ZooBook.Application.csprojAssemblyReference.cache
+C:\Work\ZooBook\ZooBook\ZooBook.Application\obj\Debug\net5.0\ZooBook.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\ZooBook\ZooBook\ZooBook.Application\obj\Debug\net5.0\ZooBook.Application.AssemblyInfoInputs.cache
+C:\Work\ZooBook\ZooBook\ZooBook.Application\obj\Debug\net5.0\ZooBook.Application.AssemblyInfo.cs
+C:\Work\ZooBook\ZooBook\ZooBook.Application\obj\Debug\net5.0\ZooBook.Application.csproj.CoreCompileInputs.cache
+C:\Work\ZooBook\ZooBook\ZooBook.Application\obj\Debug\net5.0\ZooBook.Application.csproj.CopyComplete
+C:\Work\ZooBook\ZooBook\ZooBook.Application\obj\Debug\net5.0\ZooBook.Application.dll
+C:\Work\ZooBook\ZooBook\ZooBook.Application\obj\Debug\net5.0\ref\ZooBook.Application.dll
+C:\Work\ZooBook\ZooBook\ZooBook.Application\obj\Debug\net5.0\ZooBook.Application.pdb

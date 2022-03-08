@@ -1,0 +1,12 @@
+C:\Work\ZooBook\ZooBook\ZooBook.Domain\obj\Debug\net5.0\StreamsTalk.Domain.csproj.AssemblyReference.cache
+C:\Work\ZooBook\ZooBook\ZooBook.Domain\obj\Debug\net5.0\StreamsTalk.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\ZooBook\ZooBook\ZooBook.Domain\obj\Debug\net5.0\StreamsTalk.Domain.AssemblyInfoInputs.cache
+C:\Work\ZooBook\ZooBook\ZooBook.Domain\obj\Debug\net5.0\StreamsTalk.Domain.AssemblyInfo.cs
+C:\Work\ZooBook\ZooBook\ZooBook.Domain\obj\Debug\net5.0\StreamsTalk.Domain.csproj.CoreCompileInputs.cache
+C:\Work\ZooBook\ZooBook\ZooBook.Domain\bin\Debug\net5.0\StreamsTalk.Domain.deps.json
+C:\Work\ZooBook\ZooBook\ZooBook.Domain\bin\Debug\net5.0\StreamsTalk.Domain.dll
+C:\Work\ZooBook\ZooBook\ZooBook.Domain\bin\Debug\net5.0\ref\StreamsTalk.Domain.dll
+C:\Work\ZooBook\ZooBook\ZooBook.Domain\bin\Debug\net5.0\StreamsTalk.Domain.pdb
+C:\Work\ZooBook\ZooBook\ZooBook.Domain\obj\Debug\net5.0\StreamsTalk.Domain.dll
+C:\Work\ZooBook\ZooBook\ZooBook.Domain\obj\Debug\net5.0\ref\StreamsTalk.Domain.dll
+C:\Work\ZooBook\ZooBook\ZooBook.Domain\obj\Debug\net5.0\StreamsTalk.Domain.pdb

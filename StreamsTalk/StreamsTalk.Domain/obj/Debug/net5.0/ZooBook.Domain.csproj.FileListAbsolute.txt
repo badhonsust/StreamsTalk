@@ -1,0 +1,12 @@
+C:\Work\ZooBook\ZooBook\ZooBook.Domain\bin\Debug\net5.0\ZooBook.Domain.deps.json
+C:\Work\ZooBook\ZooBook\ZooBook.Domain\bin\Debug\net5.0\ZooBook.Domain.dll
+C:\Work\ZooBook\ZooBook\ZooBook.Domain\bin\Debug\net5.0\ref\ZooBook.Domain.dll
+C:\Work\ZooBook\ZooBook\ZooBook.Domain\bin\Debug\net5.0\ZooBook.Domain.pdb
+C:\Work\ZooBook\ZooBook\ZooBook.Domain\obj\Debug\net5.0\ZooBook.Domain.csprojAssemblyReference.cache
+C:\Work\ZooBook\ZooBook\ZooBook.Domain\obj\Debug\net5.0\ZooBook.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\ZooBook\ZooBook\ZooBook.Domain\obj\Debug\net5.0\ZooBook.Domain.AssemblyInfoInputs.cache
+C:\Work\ZooBook\ZooBook\ZooBook.Domain\obj\Debug\net5.0\ZooBook.Domain.AssemblyInfo.cs
+C:\Work\ZooBook\ZooBook\ZooBook.Domain\obj\Debug\net5.0\ZooBook.Domain.csproj.CoreCompileInputs.cache
+C:\Work\ZooBook\ZooBook\ZooBook.Domain\obj\Debug\net5.0\ZooBook.Domain.dll
+C:\Work\ZooBook\ZooBook\ZooBook.Domain\obj\Debug\net5.0\ref\ZooBook.Domain.dll
+C:\Work\ZooBook\ZooBook\ZooBook.Domain\obj\Debug\net5.0\ZooBook.Domain.pdb
